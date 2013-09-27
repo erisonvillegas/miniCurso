@@ -1,4 +1,6 @@
 miniCurso
 =========
 
-Mini Curso PHP
+#Mini Curso PHP
+
+Criando aplicações com PHP
